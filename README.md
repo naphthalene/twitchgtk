@@ -1,6 +1,10 @@
 # twitch.tv GTK+ client
 
-A GTK+ application with embedded VLC (via livestreamer project)
+**Very much a work in progress!**
+
+A GTK+ application with embedded VLC (via livestreamer
+project). Supports chatting, viewing your subscriptions and watching
+streams.
 
 ## Views
 
